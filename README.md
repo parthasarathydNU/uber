@@ -3,6 +3,9 @@
 ## Project Vision
 This project aims to create an open-source, customizable Uber-like ride-hailing simulation platform. Our goal is to provide a tool for researchers, students, and industry professionals to experiment with ride-hailing algorithms, analyze system behavior, and innovate in the field of urban mobility.
 
+## Projects: 
+- **[Uber Ride API](https://github.com/parthasarathydNU/uber-ride-api)**: This project is an API for simulating an Uber-like ride-hailing service. It provides endpoints for managing various aspects of the system, including locations, drivers, passengers, and rides.
+
 ## Key Features
 - Simulated environment with customizable parameters
 - Rider interface for requesting rides
