@@ -6,6 +6,8 @@ This project aims to create an open-source, customizable Uber-like ride-hailing 
 ## Projects: 
 - **[Uber Ride API](https://github.com/parthasarathydNU/uber-ride-api)**: This project is an API for simulating an Uber-like ride-hailing service. It provides endpoints for managing various aspects of the system, including locations, drivers, passengers, and rides.
 
+- **[Uber Frontend App](https://github.com/aadhityaalagappan/uber-frontend)** This project is the frontend mobile application which serves as the platform to book rides.
+
 ## Key Features
 - Simulated environment with customizable parameters
 - Rider interface for requesting rides
